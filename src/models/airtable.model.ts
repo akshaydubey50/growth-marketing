@@ -10,6 +10,7 @@ export interface AirtableModel {
     Verified: boolean;
     "Popularity (Traffic)"?: string;
     LiveURL?: string;
+    "Detailed Description"?: string; 
   };
 }
 

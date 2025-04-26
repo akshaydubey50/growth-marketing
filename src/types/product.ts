@@ -8,6 +8,6 @@ export type Product = {
   verified?:boolean;
   Pricing: string;
   "Detailed Description"?: string; 
-  detailedMsg?:any
+  detailedMsg?:string
 };
 
