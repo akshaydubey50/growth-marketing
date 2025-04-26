@@ -1,0 +1,130 @@
+[
+  {
+    "value": "item-1",
+    "title": "What is the Growth Marketing Tools directory about?",
+    "content": "Our Growth Marketing Tools directory has over 200 Growth Marketing Toolstools, categorized to help you find the right tool for your needs. You can sign up, like, bookmark your favourite tools, find similar tools, etc."
+  },
+  {
+    "value": "item-2",
+    "title": "How are the tools categorized?",
+    "content": "Tools are categorized by their primary function, such as:",
+    "categories": [
+      "SEO",
+      "Drafting",
+      "Webinar",
+      "Link in bio",
+      "Newsletters",
+      "Audio Content",
+      "Video Content",
+      "Visual Content",
+      "Online Courses",
+      "Content Planning",
+      "Content Research",
+      "Sell Digital Products",
+      "Social Media Management",
+      "Plagiarism & AI Content Detector"
+    ]
+  },
+  {
+    "value": "item-3",
+    "title": "Can I find the pricing model for each tool?",
+    "content": "Yes, each tool listing includes pricing model tags to help you choose the best option. We have categorized tools with pricing tags such as:",
+    "categories": [
+      "Free",
+      "Paid",
+      "Free Trial",
+      "Freemium",
+      "Contact for Pricing"
+    ]
+  },
+  {
+    "value": "item-4",
+    "title": "How often is the directory updated?",
+    "content": "The directory is regularly updated to include new tools and the latest pricing information."
+  },
+  {
+    "value": "item-5",
+    "title": "Is there a way to filter tools by categories or pricing?",
+    "content": "Yes, you can use our filters to sort tools by pricing models and categories."
+  },
+  {
+    "value": "item-6",
+    "title": "Are there user reviews or ratings for the tools?",
+    "content": "No, we don't have reviews and ratings available yet. However, we will soon be integrating links to reviews on G2, TrustPilot, and other SaaS review platforms. Additionally, we plan to implement a rating system on our website for user feedback."
+  },
+  {
+    "value": "item-7",
+    "title": "Can I submit a tool to be included in the directory?",
+    "content": "Absolutely! If you know a tool that should be listed, you can submit it through our \"Submit Tool\" page. Please check if the tool already exists in our directory before submitting a new tool."
+  },
+  {
+    "value": "item-8",
+    "title": "Do I need to sign up to access the directory?",
+    "content": "You can browse the directory without signing up, but creating an account allows you to like and bookmark tools."
+  },
+  {
+    "value": "item-9",
+    "title": "How can I bookmark my favourite tools?",
+    "content": "Once signed in, simply click the bookmark icon on any tool listing to add it to your favourites. The Bookmark icon is available on the listing as well as the detail page of each tool."
+  },
+  {
+    "value": "item-10",
+    "title": "Can I compare multiple tools side by side?",
+    "content": "No, our directory does not include a comparison feature to help you evaluate multiple tools at once. But we do have a section below each tool on their detail page where you can find similar tools in that category."
+  },
+  {
+    "value": "item-11",
+    "title": "Are there any free tools listed in the directory?",
+    "content": "Yes, we list free, free trial, freemium, and paid tools, which can also be accessed using the filters."
+  },
+  {
+    "value": "item-12",
+    "title": "Is customer support available if I need help?",
+    "content": "Yes, our support team is available to assist you with any questions or issues you may have. Just ask on the chatbot."
+  },
+  {
+    "value": "item-13",
+    "title": "Can I see which tools are popular among other users?",
+    "content": "Yes, all users will like their favourite tools so the popular tools/most liked tools among other users will stay on the top."
+  },
+  {
+    "value": "item-14",
+    "title": "Are there any discounts available for the tools?",
+    "content": "We are talking with brands so we will occasionally offer exclusive discounts and deals on certain tools. Sign up for our newsletter to stay informed."
+  },
+  {
+    "value": "item-15",
+    "title": "How can I stay updated with new tools and features?",
+    "content": "Subscribe to our newsletter for the latest updates on new tools, features, and exclusive offers."
+  },
+  {
+    "value": "item-17",
+    "title": "Can I get personalized recommendations?",
+    "content": "Currently, we have only added a like feature that keeps the popular tools/most-liked tools on the top. We have the option to bookmark tools under your account."
+  },
+  {
+    "value": "item-18",
+    "title": "How can I contact you for more information?",
+    "content": "You can email us directly at contentcreation.fyi@gmail.com"
+  },
+  {
+    "value": "item-19",
+    "title": "Is there a mobile version of the directory?",
+    "content": "Yes, our website is mobile-friendly, so you can access the directory on any device."
+  },
+  {
+    "value": "item-20",
+    "title": "Are there any AI-powered Growth Marketing Tools listed?",
+    "content": "Yes, we feature AI-powered tools that can assist with content generation, such as Jasper.ai, Copy.ai, Tweet Hunter, etc."
+  },
+  {
+    "value": "item-21",
+    "title": "Do you provide tutorials or guides for using these tools?",
+    "content": "While we don't provide tutorials directly, we will soon start including links to tutorials and guides offered by the tool providers."
+  },
+  {
+    "value": "item-16",
+    "title": "What types of content creators benefit from this directory?",
+    "content": "The directory is designed for those who create all types of content. They can be Content Writers, Content Editors, Content Marketers, Founders, Solopreneurs, Graphic Designers, Video Editors."
+  }
+]
